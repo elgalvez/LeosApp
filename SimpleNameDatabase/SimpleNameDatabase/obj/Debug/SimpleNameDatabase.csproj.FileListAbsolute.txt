@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\SimpleNameDatabase\SimpleNameDatabase\bin\Debug\SimpleNameDatabase.exe.config
